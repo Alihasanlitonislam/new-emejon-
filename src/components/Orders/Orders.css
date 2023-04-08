@@ -1,0 +1,24 @@
+.reviow-prodack{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+.link-order{
+    text-decoration: none;
+}
+.order-btn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+    font-size: 15px;
+    width: 90%;
+    height: 90%;
+    color: white;
+    background-color: rgb(102, 67, 67);
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
